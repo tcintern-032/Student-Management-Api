@@ -135,4 +135,4 @@ This project demonstrates:
 - Docker Support
 - Unit Testing
 ## Author
-**DEvolped By Muhammad Zeeshan Haider**                
+**Devolped By Muhammad Zeeshan Haider**                
