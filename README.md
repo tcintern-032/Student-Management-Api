@@ -127,7 +127,6 @@ This project demonstrates:
 - Project Organization
 - API Testing
 ## Future Improvements
-
 - Connect with MySQL or PostgreSQL
 - MongoDB Integration
 - SQLAlchemy ORM
